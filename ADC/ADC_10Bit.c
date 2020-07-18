@@ -1,3 +1,11 @@
+/*
+Organisation name	: DOT HEX Technology.
+Controller		: PIC16f876A.
+Compiler		: HITECH-C or XC-8.
+IDE			: MPLABV8.53 or MPLAB-X.
+*/
+
+
 #include<PIC.H>
 #include "delay.h"
 #include "lcd_header.h"
